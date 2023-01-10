@@ -41,7 +41,7 @@ class Home extends Component {
 
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$50</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$50</strong></a>
                             </div>
 
                         </div>
@@ -65,7 +65,7 @@ class Home extends Component {
 
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$60</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$60</strong></a>
                             </div>
 
                         </div>
@@ -88,7 +88,7 @@ class Home extends Component {
                             </div>
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$100</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$100</strong></a>
                             </div>
 
                         </div>
@@ -113,7 +113,7 @@ class Home extends Component {
                             </div>
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$40</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$40</strong></a>
                             </div>
 
                         </div>
@@ -136,7 +136,7 @@ class Home extends Component {
                             </div>
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$55</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$55</strong></a>
                             </div>
 
                         </div>
@@ -159,7 +159,7 @@ class Home extends Component {
                             </div>
 
                             <div class="section-price">
-                            <a class="btn btn-danger btn-price"><strong>$75</strong></a>
+                            <a class="btn btn-danger btn-price" data-toggle="tooltip" data-placement="top" title="Taxes Included"><strong>$75</strong></a>
                             </div>
 
                         </div>
